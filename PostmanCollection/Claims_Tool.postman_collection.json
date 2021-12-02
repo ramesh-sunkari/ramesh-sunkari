@@ -1,0 +1,22 @@
+{
+  "info": {
+    "_postman_id": "db69625d-fe46-4fd3-ade0-efe7d4987660",
+    "name": "ClaimsTool",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Testing",
+      "_postman_id": "a473e252-954c-4689-975b-4e20f080098c",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": ""
+      },
+      "response": []
+    }
+  ]
+}
